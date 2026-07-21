@@ -9,8 +9,9 @@ Welcome to my personal archive. This is where I share my cyber security journey,
 ```text
 └── Study-Archive/
     ├── 01-Environments/         → OS deployment, lab environments, and virtualization configs
-    ├── 02-Books/                → Cyber security reference manuals, notes, and reading resources
-    ├── 03-Roadmaps/             → Career paths and step-by-step certification guides
+    ├── 02-Tools-&-Resources/    → Useful security tools, bug bounty scripts, commands, and methodologies
+    ├── 03-Books/                → Cyber security reference manuals, notes, and reading resources
+    ├── 04-Roadmaps/             → Career paths and step-by-step certification guides
     └── README.md                → Repository navigation guide
 ```
 
@@ -18,6 +19,9 @@ Welcome to my personal archive. This is where I share my cyber security journey,
 
 ### 📂 /01-Environments
 * 🚀 [WSL2 & Kali Linux Complete Configuration Guide](01-Environments/wsl-kali-guide.md) — *Step-by-step installation, essential updates, and metapackage deployment.*
+
+### 📂 /02-Tools-&-Resources
+* 🔍 [Asset Discovery & Recon](02-Tools-&-Resources/Recon-&-Asset-Discovery.md) — *A complete list of tools, techniques, and methodologies for recon and asset discovery.*
 
 ### 📂 /02-Books
 * ⏳ *Coming Soon (Cybersecurity books, reference material, and curated reading resources)*
